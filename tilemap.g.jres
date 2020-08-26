@@ -1,0 +1,37 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDMwNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwNDA0MDgwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzA0MDQwNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDQwNDA1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwNDA0MDUwMTAxMDEwMTAxMDEwMTA5MGUwZjAxMDEwMzA0MDQwNTAxMDEwMTAxMDEwMTAxMGEwZDEwMDEwMTAzMDQwNDA1MDEwMTAxMDEwMTAxMDEwYjBjMTEwMTAxMDMwNDA0MDUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzA0MDQwNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDQwNDA1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwNDA0MDUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMzA0MDQwNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAzMDQwNDA1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwNDA0MDUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwNzA0MDQwNjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDMwNTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAyMjIyMDAwMDAwMDAwMDIwMjIyMDAwMDAwMDAwMDAyMDIyMjIwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath3",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles14",
+            "sprites.builtin.forestTiles10",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles15"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
